@@ -1,0 +1,5 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Context switch cost and overhead of threads.\relax }}{1}{figure.caption.7}% 
+\contentsline {figure}{\numberline {2}{\ignorespaces Context switch cost and overhead of fibers.\relax }}{1}{figure.caption.8}% 
+\contentsline {figure}{\numberline {3}{\ignorespaces Our system. - compile and run-time aspects\relax }}{2}{figure.caption.9}% 
+\contentsline {figure}{\numberline {4}{\ignorespaces Context switch cost and overhead of preemptive fibers.\relax }}{2}{figure.caption.10}% 
+\contentsline {figure}{\numberline {5}{\ignorespaces App benchmark\relax }}{2}{figure.caption.11}% 

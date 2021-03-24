@@ -1,0 +1,25 @@
+\contentsline {section}{Abstract}{1}{section*.1}% 
+\contentsline {section}{Contents}{1}{section*.5}% 
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}% 
+\contentsline {section}{\numberline {2}Software Infrastructure}{2}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Nautilus Aerokernel}{2}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Memory Management in Nautilus}{2}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}Compiler Infrastructure}{2}{subsection.2.3}% 
+\contentsline {section}{\numberline {3}KARAT: Concepts}{2}{section.3}% 
+\contentsline {section}{\numberline {4}KARAT: Compiler Mechanics}{3}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Compilation Process}{3}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Allocation Tracking: Mechanics}{3}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4.3}Allocation Tracking: Porting}{3}{subsection.4.3}% 
+\contentsline {subsection}{\numberline {4.4}Escapes Tracking: Mechanics}{4}{subsection.4.4}% 
+\contentsline {subsection}{\numberline {4.5}Escapes Tracking: Porting}{4}{subsection.4.5}% 
+\contentsline {subsection}{\numberline {4.6}Protections: Mechanics}{4}{subsection.4.6}% 
+\contentsline {subsection}{\numberline {4.7}Protections: Porting}{5}{subsection.4.7}% 
+\contentsline {section}{\numberline {5}KARAT: Runtime Mechanics}{6}{section.5}% 
+\contentsline {subsection}{\numberline {5.1}Runtime Overview}{6}{subsection.5.1}% 
+\contentsline {subsection}{\numberline {5.2}Porting the Runtime}{6}{subsection.5.2}% 
+\contentsline {subsection}{\numberline {5.3}Tracking Memory}{6}{subsection.5.3}% 
+\contentsline {subsection}{\numberline {5.4}Moving and Patching Memory}{6}{subsection.5.4}% 
+\contentsline {section}{\numberline {6}Initial Results}{7}{section.6}% 
+\contentsline {section}{\numberline {7}Future Work}{7}{section.7}% 
+\contentsline {section}{\numberline {8}Conclusions}{8}{section.8}% 
+\contentsline {section}{\numberline {9}References}{8}{section.9}% 
